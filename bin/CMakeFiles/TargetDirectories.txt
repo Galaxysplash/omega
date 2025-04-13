@@ -1,0 +1,3 @@
+/home/marcel/Documents/code/omega/bin/CMakeFiles/omega.dir
+/home/marcel/Documents/code/omega/bin/CMakeFiles/edit_cache.dir
+/home/marcel/Documents/code/omega/bin/CMakeFiles/rebuild_cache.dir

@@ -3,7 +3,7 @@
 #include <string>
 
 
-class CLexer {
+class Lexer {
 public:
     static void Analyze(const std::string& input);
 };

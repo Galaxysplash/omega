@@ -1,4 +1,4 @@
-/snap/clion/332/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/snap/clion/332/bin/ninja/linux/x64/ninja -G Ninja -S /home/marcel/Documents/code/omega -B /home/marcel/Documents/code/omega/bin
+/snap/clion/332/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/snap/clion/332/bin/ninja/linux/x64/ninja -G Ninja -S /home/marcel/code/omega -B /home/marcel/code/omega/bin
 -- The C compiler identification is GNU 13.3.0
 -- The CXX compiler identification is GNU 13.3.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done (0.2s)
 -- Generating done (0.0s)
--- Build files have been written to: /home/marcel/Documents/code/omega/bin
+-- Build files have been written to: /home/marcel/code/omega/bin

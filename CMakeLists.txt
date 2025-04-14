@@ -3,4 +3,12 @@ project(omega)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(omega src/main.cpp)
+include_directories(main/include)
+
+add_executable(
+        ${PROJECT_NAME} main/src/main.cpp
+        main/src/Lexer.cpp
+        main/include/Lexer.h
+        main/src/Files.cpp
+        main/include/Filesystem.h
+)

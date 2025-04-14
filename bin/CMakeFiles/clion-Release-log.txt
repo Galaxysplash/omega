@@ -1,7 +1,7 @@
 /snap/clion/332/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/snap/clion/332/bin/ninja/linux/x64/ninja -G Ninja -S /home/marcel/code/omega -B /home/marcel/code/omega/bin
-CMake Error at code/main/CMakeLists.txt:3 (target_sources):
-  Cannot specify sources for target "omega" which is not built by this
-  project.
+CMake Error at CMakeLists.txt:9 (add_subdirectory):
+  add_subdirectory given source "code/main" which is not an existing
+  directory.
 
 
 -- Configuring incomplete, errors occurred!

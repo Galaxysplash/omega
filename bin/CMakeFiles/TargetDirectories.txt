@@ -1,9 +1,0 @@
-/home/marcel/code/omega/bin/CMakeFiles/omega.dir
-/home/marcel/code/omega/bin/CMakeFiles/edit_cache.dir
-/home/marcel/code/omega/bin/CMakeFiles/rebuild_cache.dir
-/home/marcel/code/omega/bin/code/lexer/CMakeFiles/edit_cache.dir
-/home/marcel/code/omega/bin/code/lexer/CMakeFiles/rebuild_cache.dir
-/home/marcel/code/omega/bin/code/parser/CMakeFiles/edit_cache.dir
-/home/marcel/code/omega/bin/code/parser/CMakeFiles/rebuild_cache.dir
-/home/marcel/code/omega/bin/code/tokens/CMakeFiles/edit_cache.dir
-/home/marcel/code/omega/bin/code/tokens/CMakeFiles/rebuild_cache.dir

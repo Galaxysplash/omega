@@ -1,14 +1,13 @@
 cmake_minimum_required(VERSION 3.20)
 project(omega)
 
+include_directories(code)
+
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 file(GLOB_RECURSE SOURCES "code/*.cpp")
 
-add_subdirectory(code/lexer)
-add_subdirectory(code/parser)
-add_subdirectory(code/tokens)
 
 add_executable(
         ${PROJECT_NAME} ${SOURCES}

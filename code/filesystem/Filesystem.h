@@ -4,6 +4,6 @@
 
 class Filesystem {
 public:
-    static std::string_view GetPath(const int argc, const char **argv);
-    static std::string& ReadFile(const std::string_view &path);
+        static std::string_view GetPath(const int argc, const char **argv);
+        static std::string_view ReadFile(const std::string_view &path);
 };

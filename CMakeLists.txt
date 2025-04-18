@@ -11,4 +11,5 @@ file(GLOB_RECURSE SOURCES "code/*.cpp")
 
 add_executable(
         ${PROJECT_NAME} ${SOURCES}
+        code/memory/BufferSize.h
 )
